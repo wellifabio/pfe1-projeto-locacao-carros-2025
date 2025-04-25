@@ -36,7 +36,7 @@ Desenvolver as funcionalidades conforme requisitos
 
  
  ## Entrega:
- A prova deve ser entregue pelo gitpages (OBRIGATÓRIO)
+Fork do repositório público no GitHub com o código fonte do projeto, Git-Pages habilitado e link disponível no "About" do projeto.
  ```json
  [
   {
@@ -154,16 +154,12 @@ Desenvolver as funcionalidades conforme requisitos
 ```
 
 ## Wireframes
-### Locação de carros:
-
-1. Lista de carros:
-![Lista](./assets/lista.png)
-
-2. Modal:
-![Modal](./assets/modal.png)
-
-3. Cadastro:
-![Cadastro](./assets/cadastro.png)
+|Web|Mobile|
+|-|-|
+|![Wireframe01](./wireframes/wireframe1.png)|![Wireframe02](./wireframes/wireframe2.png)|
+|![Wireframe03](./wireframes/wireframe3.png)|![Wireframe04](./wireframes/wireframe4.png)|
+|![Wireframe05](./wireframes/wireframe5.png)|![Wireframe06](./wireframes/wireframe6.png)|
+|![Wireframe07](./wireframes/wireframe7.png)|![Wireframe08](./wireframes/wireframe8.png)|
 
 #### Obs: Os wireframes são apenas sugestões, você pode criar o layout que desejar, desde que atenda aos requisitos funcionais e não funcionais.
 Use sua criatividade e faça um layout bonito e funcional.
