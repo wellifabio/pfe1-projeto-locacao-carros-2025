@@ -1,92 +1,112 @@
 [
     {
         "id": 1,
-        "titulo": "Dom Quixote",
-        "autor": "Miguel de Cervantes",
-        "ano": 1605,
-        "editora": "Editora Clássicos",
-        "genero": "Romance",
-        "descricao": "Um romance satírico sobre um fidalgo que acredita ser um cavaleiro andante."
+        "modelo": "Onix LT 1.0",
+        "marca": "Chevrolet",
+        "ano": 2022,
+        "imagem": "onix.png",
+        "combustivel": "Flex",
+        "portas": 4,
+        "transmissao": "Manual",
+        "valor_diaria": 120.00
     },
     {
         "id": 2,
-        "titulo": "1984",
-        "autor": "George Orwell",
-        "ano": 1949,
-        "editora": "Companhia das Letras",
-        "genero": "Distopia",
-        "descricao": "Um retrato sombrio de um futuro totalitário."
+        "modelo": "HB20 Vision",
+        "marca": "Hyundai",
+        "ano": 2023,
+        "imagem": "hb20.png",
+        "combustivel": "Flex",
+        "portas": 4,
+        "transmissao": "Automático",
+        "valor_diaria": 150.00
     },
     {
         "id": 3,
-        "titulo": "A Revolução dos Bichos",
-        "autor": "George Orwell",
-        "ano": 1945,
-        "editora": "Editora B",
-        "genero": "Fábula política",
-        "descricao": "Uma alegoria sobre o totalitarismo disfarçado de fábula animal."
+        "modelo": "Renegade Longitude",
+        "marca": "Jeep",
+        "ano": 2023,
+        "imagem": "renegade.png",
+        "combustivel": "Gasolina",
+        "portas": 4,
+        "transmissao": "Automático",
+        "valor_diaria": 210.00
     },
     {
         "id": 4,
-        "titulo": "O Pequeno Príncipe",
-        "autor": "Antoine de Saint-Exupéry",
-        "ano": 1943,
-        "editora": "Agir",
-        "genero": "Infantil/Filosófico",
-        "descricao": "Um conto filosófico com críticas sociais sutis."
+        "modelo": "Corolla XEi",
+        "marca": "Toyota",
+        "ano": 2022,
+        "imagem": "corolla.png",
+        "combustivel": "Flex",
+        "portas": 4,
+        "transmissao": "Automático",
+        "valor_diaria": 250.00
     },
     {
         "id": 5,
-        "titulo": "Orgulho e Preconceito",
-        "autor": "Jane Austen",
-        "ano": 1813,
-        "editora": "Penguin",
-        "genero": "Romance",
-        "descricao": "A história de Elizabeth Bennet enquanto lida com questões de classe e amor."
+        "modelo": "Civic Touring",
+        "marca": "Honda",
+        "ano": 2021,
+        "imagem": "civic.png",
+        "combustivel": "Gasolina",
+        "portas": 4,
+        "transmissao": "Automático",
+        "valor_diaria": 230.00
     },
     {
         "id": 6,
-        "titulo": "O Hobbit",
-        "autor": "J.R.R. Tolkien",
-        "ano": 1937,
-        "editora": "HarperCollins",
-        "genero": "Fantasia",
-        "descricao": "A jornada de Bilbo Bolseiro em uma aventura pela Terra Média."
+        "modelo": "Fiat Mobi Like",
+        "marca": "Fiat",
+        "ano": 2022,
+        "imagem": "mobi.png",
+        "combustivel": "Flex",
+        "portas": 4,
+        "transmissao": "Manual",
+        "valor_diaria": 90.00
     },
     {
         "id": 7,
-        "titulo": "Moby Dick",
-        "autor": "Herman Melville",
-        "ano": 1851,
-        "editora": "Nova Fronteira",
-        "genero": "Aventura",
-        "descricao": "A obsessiva caçada do capitão Ahab pela baleia branca."
+        "modelo": "Kwid Zen",
+        "marca": "Renault",
+        "ano": 2023,
+        "imagem": "kwid.png",
+        "combustivel": "Flex",
+        "portas": 4,
+        "transmissao": "Manual",
+        "valor_diaria": 95.00
     },
     {
         "id": 8,
-        "titulo": "A Metamorfose",
-        "autor": "Franz Kafka",
-        "ano": 1915,
-        "editora": "L&PM",
-        "genero": "Ficção filosófica",
-        "descricao": "Um homem acorda transformado em um inseto gigante."
+        "modelo": "Gol Trendline",
+        "marca": "Volkswagen",
+        "ano": 2021,
+        "imagem": "gol.png",
+        "combustivel": "Flex",
+        "portas": 4,
+        "transmissao": "Manual",
+        "valor_diaria": 100.00
     },
     {
         "id": 9,
-        "titulo": "Grande Sertão: Veredas",
-        "autor": "João Guimarães Rosa",
-        "ano": 1956,
-        "editora": "Nova Aguilar",
-        "genero": "Romance",
-        "descricao": "Um clássico da literatura brasileira sobre o sertão e seus conflitos."
+        "modelo": "Compass Limited",
+        "marca": "Jeep",
+        "ano": 2022,
+        "imagem": "compass.png",
+        "combustivel": "Diesel",
+        "portas": 4,
+        "transmissao": "Automático",
+        "valor_diaria": 270.00
     },
     {
         "id": 10,
-        "titulo": "Harry Potter e a Pedra Filosofal",
-        "autor": "J.K. Rowling",
-        "ano": 1997,
-        "editora": "Rocco",
-        "genero": "Fantasia",
-        "descricao": "O começo da jornada de um jovem bruxo em Hogwarts."
+        "modelo": "Tracker Premier",
+        "marca": "Chevrolet",
+        "ano": 2023,
+        "imagem": "tracker.png",
+        "combustivel": "Flex",
+        "portas": 4,
+        "transmissao": "Automático",
+        "valor_diaria": 220.00
     }
 ]
